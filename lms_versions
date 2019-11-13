@@ -1,10 +1,10 @@
 [
 	{
-		version: "104",
+		version: 104,
 		url: "http://web.url.com/ass"
 	},
 	{
-		version: "103",
+		version: 103,
 		url: "http://web.url.com/ass"
 	}
 ]
